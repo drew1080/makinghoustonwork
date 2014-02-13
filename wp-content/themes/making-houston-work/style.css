@@ -1,0 +1,14 @@
+/*
+Theme Name:     Making Houston Work
+Description:    Child of 2014 Theme
+Author:         HioWeb.com
+Template:       twentyfourteen
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../twentyfourteen/style.css");
+
+.site-content .entry-header, .site-content .entry-content, .site-content .entry-summary, .site-content .entry-meta, .page-content {
+  max-width: 650px;
+}
